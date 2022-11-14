@@ -1,6 +1,6 @@
-## CS 360V Virtualization (Fall 2020)
+## IBM Nutritional assistance 
 
-Welcome to CS 378 Virtualization for undergrads. This is a course designed to expose undergraduate students to the latest in virtualization technologies such as virtual machines, containers, serverless, etc. The course also has two significant project components to be completed over the course of the semester.
+Welcome to IBM Nutritional assistance n for undergrads. This is a course designed to expose undergraduate students to the latest in virtualization technologies such as virtual machines, containers, serverless, etc. The course also has two significant project components to be completed over the course of the semester.
 
  This course will introduce students to
   a range of exciting topics including:
