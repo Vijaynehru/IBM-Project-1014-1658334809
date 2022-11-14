@@ -27,25 +27,25 @@ Aside from teaching you the concepts behind virtualization, this course is meant
 
 **[Schedule](https://github.com/sindhu03/cs360v-f20/blob/master/schedule.md)**
 
-**Instructor: [sindhu](https://www.cs.utexas.edu/~sindhu/)**
+**Instructor: [sindhu S](https://www.cs.utexas.edu/~sindhu/)**
 
 Email: sindhuc@utexas.edu
 
 Office hours: 2-3 PM CST Friday, **[Zoom](https://utexas.zoom.us/j/93495500868)**
 
-**TA:  [sowmiya](https://www.cs.utexas.edu/~sowmiya/)**
+**TA:  [sowmiya s](https://www.cs.utexas.edu/~sowmiya/)**
 
 Email: sowmiyaa@cs.utexas.edu
 
 Office hours: Monday 5-6 PM CST, **[Zoom](https://utexas.zoom.us/j/96718513620)**
 
-**TA: [Ashwin](https://ashwin.github.io/)**
+**TA: [Ashwinkumar](https://ashwin.github.io/)**
 
 Email: ashwin@cs.utexas.edu
 
 Office hours: Wednesday ~~5-6 PM~~ 10-11 AM CST, **[Zoom](https://utexas.zoom.us/j/96718513620)** 
 
-**TA: [vijay](https://vijay.github.io/)**
+**TA: [vijay N](https://vijay.github.io/)**
 
 Email: vijay.utexas.edu
 
