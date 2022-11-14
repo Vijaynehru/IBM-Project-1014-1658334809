@@ -25,23 +25,29 @@ Aside from teaching you the concepts behind virtualization, this course is meant
 
 **Class Timing and Location**: TuTh 2 pm - 3:30pm on **[Zoom](https://utexas.zoom.us/j/98279961506)**
 
-**[Schedule](https://github.com/vijay03/cs360v-f20/blob/master/schedule.md)**
+**[Schedule](https://github.com/sindhu03/cs360v-f20/blob/master/schedule.md)**
 
-**Instructor: [Vijay Chidambaram](https://www.cs.utexas.edu/~vijay/)**
+**Instructor: [sindhu](https://www.cs.utexas.edu/~sindhu/)**
 
-Email: vijayc@utexas.edu
+Email: sindhuc@utexas.edu
 
 Office hours: 2-3 PM CST Friday, **[Zoom](https://utexas.zoom.us/j/93495500868)**
 
-**TA: [Soujanya Ponnapalli](https://www.cs.utexas.edu/~soujanya/)**
+**TA:  [sowmiya](https://www.cs.utexas.edu/~sowmiya/)**
 
-Email: soujanya@cs.utexas.edu
+Email: sowmiyaa@cs.utexas.edu
 
 Office hours: Monday 5-6 PM CST, **[Zoom](https://utexas.zoom.us/j/96718513620)**
 
-**TA: [Aashaka Shah](https://aashaka.github.io/)**
+**TA: [Ashwin](https://ashwin.github.io/)**
 
-Email: aashaka@cs.utexas.edu
+Email: ashwin@cs.utexas.edu
+
+Office hours: Wednesday ~~5-6 PM~~ 10-11 AM CST, **[Zoom](https://utexas.zoom.us/j/96718513620)** 
+
+**TA: [vijay](https://vijay.github.io/)**
+
+Email: vijay.utexas.edu
 
 Office hours: Wednesday ~~5-6 PM~~ 10-11 AM CST, **[Zoom](https://utexas.zoom.us/j/96718513620)** 
 
